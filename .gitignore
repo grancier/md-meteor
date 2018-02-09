@@ -1,4 +1,6 @@
-node_modules
-settings-demo.json
-settings-staging.json
+# Operating System
+.DS_Store
+
+# Configuration
 settings-production.json
+npm-debug.log
