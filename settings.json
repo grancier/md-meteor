@@ -1,0 +1,49 @@
+{
+  "private": {
+    "oAuth": {
+      "facebook": {
+        "development": {
+          "appId": "xxx",
+          "secret": "xxx"
+        },
+        "staging": {
+          "appId": "xxx",
+          "secret": "xxx"
+        },
+        "production": {
+          "appId": "xxx",
+          "secret": "xxx"
+        }
+      },
+      "github": {
+        "development": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        },
+        "staging": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        },
+        "production": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        }
+      },
+      "google": {
+        "development": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        },
+        "staging": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        },
+        "production": {
+          "clientId": "xxx",
+          "secret": "xxx"
+        }
+      }
+    }
+  }
+}
+
